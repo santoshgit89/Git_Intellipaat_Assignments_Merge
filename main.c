@@ -9,6 +9,10 @@ Initial Security()
 {
  //Sample Code
 }
+Feature2 Function()
+{
+  //Sample Code
+}
 
 
 
