@@ -14,6 +14,10 @@ Feature2 Function()
   //Sample Code
 }
 
+Master Security()
+{
+ //Sample Code
+}
 
 
 }
